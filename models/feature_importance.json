@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "Contract_Month-to-month",
+    "importance": 12.487912177519082
+  },
+  {
+    "feature": "Contract_Two year",
+    "importance": 12.29606232921162
+  },
+  {
+    "feature": "tenure",
+    "importance": 9.032601026661977
+  },
+  {
+    "feature": "PaymentMethod_Electronic check",
+    "importance": 5.60389002011918
+  },
+  {
+    "feature": "PaymentMethod_Bank transfer (automatic)",
+    "importance": 3.958981274206656
+  },
+  {
+    "feature": "MonthlyCharges",
+    "importance": 3.937000174555049
+  },
+  {
+    "feature": "InternetService_DSL",
+    "importance": 3.8414264276379875
+  },
+  {
+    "feature": "TechSupport_Yes",
+    "importance": 3.4834005565251216
+  },
+  {
+    "feature": "PaymentMethod_Credit card (automatic)",
+    "importance": 3.392518738980594
+  },
+  {
+    "feature": "OnlineSecurity_Yes",
+    "importance": 3.1972128828894406
+  },
+  {
+    "feature": "Contract_One year",
+    "importance": 2.455452901958287
+  },
+  {
+    "feature": "InternetService_Fiber optic",
+    "importance": 2.4011105708313094
+  },
+  {
+    "feature": "TotalCharges",
+    "importance": 2.226960951827763
+  },
+  {
+    "feature": "Dependents_Yes",
+    "importance": 2.1649282817242623
+  },
+  {
+    "feature": "TechSupport_No",
+    "importance": 2.0430846997184346
+  },
+  {
+    "feature": "Partner_No",
+    "importance": 1.7914639177085177
+  },
+  {
+    "feature": "OnlineSecurity_No",
+    "importance": 1.756897026082763
+  },
+  {
+    "feature": "SeniorCitizen_0",
+    "importance": 1.7070508116912346
+  },
+  {
+    "feature": "gender_Female",
+    "importance": 1.314853281382621
+  },
+  {
+    "feature": "PaperlessBilling_No",
+    "importance": 1.285684903379743
+  }
+]
